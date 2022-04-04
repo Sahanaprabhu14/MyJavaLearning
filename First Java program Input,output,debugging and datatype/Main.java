@@ -10,6 +10,9 @@ public class Main {
         Scanner input = new Scanner(System.in);
         //Prints the next integer Note: You can only pass integer
         System.out.println(input.nextInt());
+        // Comment the above line to see the changes of below line
+        //Prints a line( It can be integer, string or of any datatype)
+        System.out.println(input.nextLine());
 
     }
 }
